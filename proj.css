@@ -13,7 +13,7 @@
     --switch-bg-url: url(moon-stars.svg);
 }
 .lighty{
-    --text-color:black;
+    --text-color:#8d8181;
     --bg-url:url(bg-mobile-light.jpg);
     --stroke-color:rgba(0, 0, 0, 0.5);
     --surface-color:rgba(0, 0, 0, 0.05);
